@@ -1,9 +1,9 @@
 #!/usr/bin/env python
 # coding: utf-8
-import sys
 
-for line in sys.stdin:
-    if line == '42\n':
+while True:
+    n = input()
+    if n == 42:
         break
-    print line,
+    print n
 
