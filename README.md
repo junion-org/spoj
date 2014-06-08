@@ -29,6 +29,9 @@ Tutorial
 --------
 Like classical but easier or with generally known algorithm; for educational purpose.
 
+- [DIVSUM](http://www.spoj.com/problems/DIVSUM/): TLE
+
 Riddle
 ------
+- [LGIC](http://www.spoj.com/problems/LGIC/)
 
