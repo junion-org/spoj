@@ -17,11 +17,13 @@ Challenge
 ---------
 Problems that enable submitting worse or better solutions.
 
-- [KAMIL](http://www.spoj.com/problems/KAMIL/)
+- [KAMIL](http://www.spoj.com/problems/KAMIL/): 70
 
 Partial
 -------
 Like challenge but for educational purpose.
+
+- [QTREE3](http://www.spoj.com/problems/QTREE3/): 0
 
 Tutorial
 --------
